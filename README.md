@@ -1,1 +1,2 @@
-I have stopped using GitHub in favor of my own self-hosted [Gitea server](https://git.swightshome.xyz).
+Repos can also be found on my own [Gitea server](https://git.swightshome.xyz).
+
